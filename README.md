@@ -30,48 +30,48 @@ https://www.youtube.com/embed/ifUx5B7tlT4
 
 ### Rotational Axes
 
-For rotation axes it valuable to supply both Euler angle data and rotational rate data instead of having just one.
+When considering rotational axes, it is beneficial to provide both Euler angle data and rotational rate data, rather than relying on just one of these inputs.
 
 #### Pitch
 
-Pitch is the tilt of the vehicle forwards or backwards in degrees [°]
+Pitch refers to the forward or backward tilt of the vehicle, measured in degrees [°].
 
-Simply the angle of the vehicle up or down like when you go up a hill or down a hill. Affects most vehicle types in similar ways.
+Think of it as the angle of the vehicle tilting up or down, similar to ascending or descending a hill. This characteristic impacts a variety of vehicle types in similar manners.
 
 
 #### Roll
 
-Roll is how much the vehicle is dipped to the left or right in degrees [°]
+Roll pertains to the degree of sideways leaning or tilting of the vehicle to the left or right, measured in degrees [°].
 
-Think of this as angle of the vehicle side to side vs the horizon. Imagine when you are in a banked curve. Mostly affects planes as cars move very little horizontally.
+Visualize this as the angle between the vehicle's side and the horizon. For instance, consider the sensation experienced while navigating a banked curve. This aspect primarily affects airplanes, as cars exhibit minimal horizontal movement.
 
 
 #### Yaw
 
-Yaw is the heading of the vehicle (north, south, east, west) in degrees [°] 
+Yaw corresponds to the vehicle's orientation in terms of its heading (north, south, east, west), expressed in degrees [°].
 
-Like when you press the rudders and the plane twist without rolling or pitching, or when the back part of your car is rotating quicker than the front part. Like for example, when you are drifting or experiencing traction loss in a car.
+Analogous to when rudders are manipulated, causing the aircraft to rotate without rolling or pitching. Additionally, it relates to scenarios in which the rear of a car rotates faster than the front, such as during drifting or encountering traction loss.
 
 
 ### Positional Axes
 
 #### Surge
 
-Surge is the acceleration of the vehicle in longitudinal direction [g]
+Surge signifies the acceleration of the vehicle along its longitudinal direction, measured in gravitational units [g].
 
-Imagine when you are accelerating or breaking. This is the effect that makes you feel gear changes on cars.
+Visualize this as the effect experienced during acceleration or braking. It's responsible for the sensation of gear changes in cars.
 
 #### Sway
 
-Sway is the acceleration of the vehicle in the lateral direction [g]
+Sway represents the vehicle's acceleration in the lateral direction, measured in gravitational units [g].
 
-This is the gravitational force when you are in a high speed curve and your car is been "pushed" to the outside of the curve. One of the most important effects for cars.
+This force becomes apparent during high-speed turns, causing the vehicle to be "pushed" outward on curves. Among the most significant effects for cars.
 
 #### Heave
 
-Heave is the acceleration of the vehicle up and down [g]
+Heave denotes the vehicle's vertical acceleration, involving upward and downward movement, measured in gravitational units [g].
 
-Imagine for a car, the road texture and bumps. For planes, turbulence, when you lift off and land on the ground
+For cars, this can be associated with road textures and bumps. In the case of planes, it encompasses turbulence and the sensations felt during takeoff and landing.
 
 
 
