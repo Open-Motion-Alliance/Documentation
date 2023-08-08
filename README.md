@@ -24,7 +24,7 @@ In summary, motion telemetry is a critical technology that bridges the gap betwe
 
 Here is a simple animation that basically shows the 6 degree of freedom (6-DOF) axes of movement
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ifUx5B7tlT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/ifUx5B7tlT4
 
 ![https://static.wixstatic.com/media/092827_ad27a865a8f543d78f5193261b2bd717~mv2.png](https://static.wixstatic.com/media/092827_ad27a865a8f543d78f5193261b2bd717~mv2.png)
 
