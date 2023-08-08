@@ -34,14 +34,14 @@ When considering rotational axes, it is beneficial to provide both Euler angle d
 
 #### Pitch
 
-Pitch refers to the forward or backward tilt of the vehicle, measured in degrees [°].
+Pitch refers to the forward or backward tilt of the vehicle, expressed in degrees [°].
 
 Think of it as the angle of the vehicle tilting up or down, similar to ascending or descending a hill. This characteristic impacts a variety of vehicle types in similar manners.
 
 
 #### Roll
 
-Roll pertains to the degree of sideways leaning or tilting of the vehicle to the left or right, measured in degrees [°].
+Roll pertains to the degree of sideways leaning or tilting of the vehicle to the left or right, expressed in degrees [°].
 
 Visualize this as the angle between the vehicle's side and the horizon. For instance, consider the sensation experienced while navigating a banked curve. This aspect primarily affects airplanes, as cars exhibit minimal horizontal movement.
 
