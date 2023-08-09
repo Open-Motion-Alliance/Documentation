@@ -28,7 +28,11 @@ https://www.youtube.com/embed/ifUx5B7tlT4
 
 ![https://static.wixstatic.com/media/092827_ad27a865a8f543d78f5193261b2bd717~mv2.png](https://static.wixstatic.com/media/092827_ad27a865a8f543d78f5193261b2bd717~mv2.png)
 
-### Rotational Axes
+Motion can be inferred through the combination of rotational positioning and translational acceleration. Alternatively, absolute or relative positioning, along with velocity and acceleration values—both translational and rotational—can also be employed.
+
+Incorporating gravitational forces into translational forces/accelerations is another option. The choice between these methods may depend on the underlying physics system implemented within your game engine, with one approach potentially being more straightforward to acquire than the other.
+
+### Rotational Data
 
 When considering rotational axes, it is beneficial to provide both Euler angle data and rotational rate data, rather than relying on just one of these inputs.
 
@@ -53,7 +57,7 @@ Yaw corresponds to the vehicle's orientation in terms of its heading (north, sou
 Analogous to when rudders are manipulated, causing the aircraft to rotate without rolling or pitching. Additionally, it relates to scenarios in which the rear of a car rotates faster than the front, such as during drifting or encountering traction loss.
 
 
-### Positional Axes
+### Positional Data
 
 #### Surge
 
@@ -73,7 +77,11 @@ Heave denotes the vehicle's vertical acceleration, involving upward and downward
 
 For cars, this can be associated with road textures and bumps. In the case of planes, it encompasses turbulence and the sensations felt during takeoff and landing.
 
+### Additional Data
 
+Additional motion effects could benefit from various other state-related information. For instance, data about being on the ground or in the air, the operation of gear (lowering or retracting), motor RPM, wheel slip, and similar factors could prove valuable.
+
+If players have access to pertinent telemetry, they are likely to incorporate it into creating physical gauges for their cockpit setups. Much of the mentioned data would also be relevant for enhancing motion simulation.
 
 ## Resources:
 
